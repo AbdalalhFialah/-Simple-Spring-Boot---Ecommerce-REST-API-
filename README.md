@@ -37,7 +37,12 @@ This Assingment was implemmented three Resource for E-commerce , then I document
 
 --------------------------------------------------------
 
-### ⚡️Tool Used In This Assingment
-- Intellij 
-- Postman
-- MySQL Workbench
+### 💻Technologies 
+Java
+Spring boot
+Postman
+Intellij
+MySQL Workbench
+
+--------------------------------------------------------
+
