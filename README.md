@@ -22,10 +22,22 @@ This Assingment implemmented using Three-tier (or three-layer) architecture is a
 --------------------------------------------------------
 
 
+
+
+### 📝Docuemntion REST API's Design for Resource (Customer , Category , Product)
+This Assingment was implemmented three Resource for E-commerce , then I documented it to be easy to Understand what has been done , and when i read it after months can be easily to remember what i do.
+#### The Following Figure Appears the CURD Opeartion like (get , post , delete , update) that apply it in Customer Resource
+![Product](https://user-images.githubusercontent.com/93238952/165554689-ff8ad72b-ea81-4211-91b9-91c684349f84.png)
+#### The Following Figure Appears the CURD Opeartion like (get , post , delete , update) that apply it in Customer Resource
+
+![Category](https://user-images.githubusercontent.com/93238952/165554696-dbaf3055-611f-45d2-8841-4f6b75dc8889.png)
+#### The Following Figure Appears the CURD Opeartion like (get , post , delete , update) that apply it in Customer Resource
+
+![Customer](https://user-images.githubusercontent.com/93238952/165554711-5500435e-b32b-43cd-923b-288041b7e087.png)
+
+--------------------------------------------------------
+
 ### ⚡️Tool Used In This Assingment
 - Intellij 
 - Postman
 - MySQL Workbench
-
-### Docuemntion REST API's Design for Resource (Customer , Category , Product)
-This Assingment was implemmented three Resource for E-commerce , then I documented it to be easy to Understand what has been done , and when i read it after months can be easily to remember what i do
