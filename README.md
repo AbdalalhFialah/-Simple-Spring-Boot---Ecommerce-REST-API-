@@ -52,3 +52,9 @@ This Assingment was implemmented three Resource for E-commerce , then I document
 ## 📥Feedback
 
 If you have any feedback, please reach out to us at fialahabdallah@gmail.com
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-fialah-810178203/)
+
