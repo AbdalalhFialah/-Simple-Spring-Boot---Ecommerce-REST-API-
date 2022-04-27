@@ -17,9 +17,9 @@ This Assingment implemmented using Three-tier (or three-layer) architecture is a
 - DAO (repository)
 
 ![Spring Boot Application Arch](https://user-images.githubusercontent.com/93238952/165545087-3d839e79-8418-4e1b-9e67-c0824490bff4.png)
-
+--------------------------------------------------------
 
 ### ⚡️Tool Used In This Assingment
-- intellij 
+- Intellij 
 - Postman
 - MySQL Workbench
