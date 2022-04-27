@@ -14,7 +14,7 @@ This Assingment implemmented using Three-tier (or three-layer) architecture is a
 
 --------------------------------------------------------
 
-### 3️⃣The three-layerArchitecture :
+### 3️⃣The three-layer Architecture :
 
 - Controller
 - Serivce
